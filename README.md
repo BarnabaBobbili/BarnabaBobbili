@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @BarnabaBobbili
-- 👀 I’m interested in programing, waching movies and tv series❤️
-- 🌱 I’m currently in college 1st year pursuing CSE with AI&ML in Sathyabama Univerity
 - 📫 You can reach me on barnababobbili098@gmail.com
 
 <!---
